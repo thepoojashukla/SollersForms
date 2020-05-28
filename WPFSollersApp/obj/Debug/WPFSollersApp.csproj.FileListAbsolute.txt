@@ -1,0 +1,15 @@
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\bin\Debug\WPFSollersApp.exe.config
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\bin\Debug\WPFSollersApp.exe
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\bin\Debug\WPFSollersApp.pdb
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\MainWindow.g.cs
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\App.g.cs
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp_MarkupCompile.cache
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp_MarkupCompile.lref
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\MainWindow.baml
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.g.resources
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.Properties.Resources.resources
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.csproj.GenerateResource.cache
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.exe
+C:\Users\thepo\Source\Repos\FormsApp\WPFSollersApp\obj\Debug\WPFSollersApp.pdb
